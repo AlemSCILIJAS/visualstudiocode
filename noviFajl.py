@@ -1,0 +1,1 @@
+print("na brenchu lab 7")
